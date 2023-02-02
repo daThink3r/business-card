@@ -1,0 +1,18 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img-monky {
+  width: 150px;
+}
+.card {
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  color: #edf2f4;
+  background: #2b2d42;
+  border-bottom: 6px solid #8d99ae;
+}
